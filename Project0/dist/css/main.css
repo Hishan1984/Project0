@@ -1,0 +1,36 @@
+/* Profile Photo */
+.profile-picture {
+  width: 180px;
+  padding: 10px;
+  border: solid black 1px;
+}
+
+.no-bullets {
+  list-style-type: none;
+}
+
+body {
+  background: #C0C0C0;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+th {
+  background-color: lightslategray;
+}
+
+@media print {
+  .screen-only {
+    display: none;
+  }
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,11 @@
+/* Profile Photo */
+
+.profile-picture {
+    width: 180px;
+    padding: 10px;
+    border: solid black 1px;
+}
+
+.no-bullets {
+    list-style-type: none
+}
